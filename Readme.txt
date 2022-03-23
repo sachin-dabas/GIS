@@ -1,1 +1,1 @@
-Working Files of GIS course ar Carnegie mellon University
+Working Files of GIS course at Carnegie mellon University
